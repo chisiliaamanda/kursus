@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## Infix LMS
 Build skills with courses, certificates, and degrees online from world-class universities and companies.
 
@@ -20,3 +21,7 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+=======
+# kursus
+Project Kursus_App web development
+>>>>>>> d791979b47515dc3d5d29d5dcd38a996a54942a1
